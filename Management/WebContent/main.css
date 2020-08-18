@@ -1,0 +1,44 @@
+h1{
+	color:steelblue;
+	font-style:italic;
+	font-size:2em;
+}
+
+button{
+	width: 100px;
+	font-size: large;
+}
+
+table{
+	width:100%;
+	text-align:center;
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+
+tr{
+	height:60px;
+}
+
+th{
+	text-align:center;
+	font-weight: bold;
+	height: 30px;
+	width: 8%;
+}
+
+
+a{
+	color:rgb(0, 52, 238);
+	font-style: italic
+}
+
+#collectForm{
+	position: relative;
+	top: 10%;
+	left: 25%;
+	/* margin: auto; */
+	/* float: center; */
+}
+
+
